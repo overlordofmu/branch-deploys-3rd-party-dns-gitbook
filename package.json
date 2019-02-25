@@ -1,0 +1,27 @@
+{
+  "name": "branch-deploys-3rd-party-dns-gitbook",
+  "version": "1.0.0",
+  "description": "using gitbook to test branch deploys on netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overlordofmu/branch-deploys-3rd-party-dns-gitbook.git"
+  },
+  "keywords": [
+    "gitbook",
+    "netlify",
+    "dns"
+  ],
+  "author": "Luke Lawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overlordofmu/branch-deploys-3rd-party-dns-gitbook/issues"
+  },
+  "homepage": "https://github.com/overlordofmu/branch-deploys-3rd-party-dns-gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
